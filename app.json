@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "AlbaProyect",
+    "slug": "AlbaProyect",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "AlbaProyect"
+}
