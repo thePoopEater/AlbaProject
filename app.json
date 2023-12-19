@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "plugins": [
+      [
+        "expo-av",
+        {
+          "microphonePermission": "Allow $(PRODUCT_NAME) to access your microphone."
+        }
+      ]
+    ],
+    "name": "AlbaProyect",
+    "slug": "AlbaProyect",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "extra": {
+      "eas": {
+        "projectId": "a478ba85-fd07-41ad-94ee-7a63340ed6e7"
+      }
+    }
+  },
+  "name": "AlbaProyect"
+}
